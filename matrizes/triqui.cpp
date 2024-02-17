@@ -7,18 +7,17 @@ int main(){
     {
         for (int j = 0; j < 3; i++)
         {
-            cout<<"ponga si 1 o 0 si es su turno";
+            cout<<"ponga si + o - si es su turno";
             cin>>Triqui[i][j];
         }
-        
     }
-    for (int i = 0; i < 3; i++)
+    for (int m = 0; m < 3; m++)
+    {
+        for (int k = 0; k < 3; k++)
         {
-            for (int j = 0; j < 3; j++)
-            {
-                cout<<Triqui[i][j];
-            }
-            cout<<"\n";
+            cout<<Triqui[m][k];
         }
+        cout<<"\n";
+    } 
     return 0;
 }

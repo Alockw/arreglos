@@ -1,6 +1,20 @@
 //projecto-paquete-clase
 //carpeta == paquete
 //nuevo archivo o codigo es ==clase
-//1 hacer una calculadora 
+//1 hacer una calculadora
 //2 maquina dispensadora 
 //hacer un tablero de triqui
+//los equipos tiene una memoria en la cual se almacena la informacion los idiomas hacen que segun como uno
+// indique la memoria guarde en un espacio y que tendra dirrecion y tiene dos tipos
+//la room que solo guarda temporal mente que cuanod se apaga el pc se borra o cuando se compila tiene una infmoracion y cuando se vuelve a compilar no tiene la misma memoria
+//tiene tambien memoria ram que es la memoria que guarda todo y gasta recursos 
+//los datos en la memoria se almacenana en una cobinacion de bits para hacerlo mas facil se agrupan en bytes
+//+la informaion binaria se puede representar en exadecimal 
+/cada byte 1=8
+//area static utilizada para el codigo y variable globales
+//area heap utilizada para asignacion dinamica o resto de codigo
+//start permite para hacer la ejecucion del main 
+////cuando invoco un metodo es un argumento 
+//las variables tinen caracteristicas que son los nombre el tipo el valor 
+*ptr muestra el valor 
+si pone *ptr=&la variabnle muestra donde guardo la variable 
