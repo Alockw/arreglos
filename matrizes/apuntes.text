@@ -18,3 +18,8 @@
 //las variables tinen caracteristicas que son los nombre el tipo el valor 
 *ptr muestra el valor 
 si pone *ptr=&la variabnle muestra donde guardo la variable 
+CRUD create read update delete el delete no borra sino qu ehace un cambio de estado en el cual inabilita la informacion
+el creat es de (registrar crear ingresar)
+el read es (consultar la informacion)
+update(es cambiar como cambiar la contraseña o correo o usuario )
+delete
